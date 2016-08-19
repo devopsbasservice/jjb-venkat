@@ -2,7 +2,7 @@
     name: locanda_jjb_<appndid>
     project-type: freestyle
     defaults: global
-    description: 'Build and Deploy of Locanda via JJB - Venkat JJB - Test 2'
+    description: 'Build and Deploy of Locanda via JJB - Venkat JJB - Test 3'
     block-downstream: false
     concurrent: true
     node: master
